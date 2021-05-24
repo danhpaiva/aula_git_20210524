@@ -1,2 +1,3 @@
-# aula_git_20210524
-Repositorio de teste para aula de Git e Github
+<h1>Aula de Git</h1>
+
+<p>Atividade para exemplificar como funciona o Git e o GitHub.</p>

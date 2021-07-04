@@ -1,3 +1,3 @@
-<h1>Aula de Git</h1>
+<h1>Lesson about the Git tool</h1>
 
-<p>Atividade para exemplificar como funciona o Git e o GitHub.</p>
+<p>Activity to exemplify how Git and GitHub work for University colleagues.</p>
